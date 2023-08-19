@@ -13,7 +13,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Khrystyna Tyvoniuk
+            Khrystyna T.
           </a>{" "}
           and is{" "}
           <a
