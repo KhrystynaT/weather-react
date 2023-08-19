@@ -9,7 +9,7 @@ function App() {
         <footer className="text-center">
           This project was coded by{" "}
           <a
-            href="https://www.instagram.com/khrystyna.dev/"
+            href="https://www.linkedin.com/in/t-khrystyna/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -17,7 +17,7 @@ function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/KhrystynaTyvoniuk/react-practice.git"
+            href="https://github.com/KhrystynaT/weather-react"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -25,7 +25,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://animated-alfajores-c26225.netlify.app/"
+            href="https://weather-website-react.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
